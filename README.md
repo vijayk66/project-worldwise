@@ -9,8 +9,7 @@ Worldwise is an single page application where user can save their visited cities
 
 > [!IMPORTANT]
 > 1. Kindly run the fake API json file to work with this application
-> 2. look package.json file
-> 3. npm run server
+> 2. look **data/cities.json** and package.json file
+> 3. npm install -g json-server
+> 4. npm run server
 
-> [!IMPORTANT]
-> Crucial information necessary for users to succeed.
