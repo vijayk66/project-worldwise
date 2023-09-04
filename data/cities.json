@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-21T09:00:31.375Z",
+      "notes": "",
+      "position": {
+        "lat": "40.006974129414196",
+        "lng": "-0.012016296386718752"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Coimbatore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-23T01:26:06.670Z",
+      "notes": "went to hospital for health checkup",
+      "position": {
+        "lat": "10.970853524549222",
+        "lng": "76.6728973388672"
+      },
+      "id": 2
+    }
+  ]
+}
